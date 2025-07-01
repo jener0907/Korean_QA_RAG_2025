@@ -1,0 +1,26 @@
+## 미니콘다 설치후 -
+
+---
+
+### 💻 **가상환경 생성 (예: rag\_env)**
+
+```bash
+conda create -n rag_env python=3.10
+```
+---
+### ✅ **가상환경 활성화**
+
+```bash
+conda activate rag_env
+```
+---
+### 🗂️ **이제 여기서 필요한 라이브러리 설치**
+
+예:
+```bash
+pip install llama-cpp-python
+pip install jupyter
+pip install sentence-transformers faiss-cpu
+```
+
+---
