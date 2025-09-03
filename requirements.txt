@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+qdrant-client
+whoosh
+sentence-transformers
+openai
+requests
+numpy
+faiss-cpu
+pymupdf
+python-docx
+tqdm
