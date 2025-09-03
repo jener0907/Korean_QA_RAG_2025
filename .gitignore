@@ -1,0 +1,6 @@
+__pycache__/
+index/*
+!index/bm25/.gitkeep
+!index/vector/.gitkeep
+data_raw/*
+!data_raw/.gitkeep
